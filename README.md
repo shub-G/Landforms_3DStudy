@@ -46,7 +46,7 @@ This repository contains the source code for the 3D modelling study of Landforms
 * source files 
   * duneincludes.hh
   * main.cc
-   * Implement the correct MODEL_PATH, INPUT_PATH, and OUTPUT_PATH before compiling.
+    * Implement the correct MODEL_PATH, INPUT_PATH, and OUTPUT_PATH before compiling.
   * driver.hh
   * lop_elasticity.hh
   * lop_flow.hh
