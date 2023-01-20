@@ -54,6 +54,6 @@ This repository contains the source code for the 3D modelling study of Landforms
 * problem-specific files
   * parameters.hh
   * default_inputs.ini
-  * sample_numerical_runs.tar.gz
-  * numerical_runs_readme.txt
+  * outputs/selected_results.zip
+  * outputs/readme.txt
     * contains instructions for reading the numerical_runs
